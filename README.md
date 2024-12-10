@@ -6,7 +6,7 @@ wget --inet4-only https://raw.githubusercontent.com/datacenter-metrotel/Bind-Mon
 
 chmod +x disponibilidad.sh
 
-chmod +x monitor_bind_and_dns.sh0
+chmod +x monitor_bind_and_dns.sh
 
 crontab -e
 
